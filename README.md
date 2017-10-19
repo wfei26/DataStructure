@@ -1,2 +1,2 @@
 # DataStructure
-All code assignments of my data structure class
+All coding assignments of my data structure class
