@@ -4,7 +4,7 @@
 *Date: 04/02/15
 *File: HeapNode.cpp
 *Course: EECS560 - Data Structure
-*Project: Lab8 - Comparing the Performance of Leftist Heap and Skew Heap
+*Project: Lab8 - Comparison between the Performance of Leftist Heap and Skew Heap
 *************************************************************************/
 
 #include "HeapNode.h"
