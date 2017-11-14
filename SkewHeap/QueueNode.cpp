@@ -4,7 +4,7 @@
 *Date: 04/02/15
 *File: QueueNode.cpp
 *Course: EECS560 - Data Structure
-*Project: Lab8 - Comparing the Performance of Leftist Heap and Skew Heap
+*Project: Lab8 - Comparing the Performance Difference Between Leftist Heap and Skew Heap
 *************************************************************************/
 
 
