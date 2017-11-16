@@ -4,7 +4,7 @@
 *Date: 04/23/15
 *File: main.cpp
 *Course: EECS560 - Data Structure
-*Project: Lab10 - Comparing the performance of Binomial queue with Leftist Heap and Skew Heap
+*Project: Lab10 - Comparing the Performance Difference of Binomial queue, Leftist Heap and Skew Heap
 *********************************************************************************************/
 
 #include <iostream>
